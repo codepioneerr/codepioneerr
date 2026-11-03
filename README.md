@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" width="100%" alt="Nicholas Black — terminal interface with an ASCII ouroboros" />
+  <img src="banner.svg?v=terminal-1" width="100%" alt="Nicholas Black — terminal interface with an ASCII ouroboros" />
 </p>
 
 <p align="center">
