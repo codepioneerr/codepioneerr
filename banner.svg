@@ -11,6 +11,6 @@
 <text x="40" y="139" fill="#eff2e7" font-family="Arial,sans-serif" font-size="66" font-weight="700" letter-spacing="-2">NICHOLAS</text>
 <text x="40" y="210" fill="#eff2e7" font-family="Arial,sans-serif" font-size="66" font-weight="700" letter-spacing="-2">BLACK<tspan fill="#a7e68b">_</tspan></text>
 <text x="43" y="263" fill="#b9c4b7" font-family="Consolas,monospace" font-size="19">AI AGENTS / AUTOMATION / DATA TOOLS</text>
-<text x="43" y="318" fill="#879584" font-family="Consolas,monospace" font-size="14" letter-spacing="2">NEW YORK CITY   +   FORDHAM CS '27</text>
+<text x="43" y="318" fill="#a7e68b" font-family="Consolas,monospace" font-size="14" letter-spacing="1">FORDHAM UNIVERSITY / CS '27 + UNIVERSITY IT</text>
 <rect y="352" width="1200" height="8" fill="#2f573b"/><rect y="352" width="240" height="8" fill="#a7e68b"/>
 </svg>
