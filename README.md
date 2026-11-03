@@ -12,7 +12,17 @@
 
 I'm Nick, a computer science student at **Fordham University** in New York, graduating in **May 2027**. I build AI agents, automation, and data tools that turn messy inputs into something useful.
 
-At **Your Agent Code**, I build software for small businesses and creators. My background also includes real estate analytics and hands-on IT support.
+I also work at **Fordham University Information Technology** as an **EndPoint Services Assistant**, supporting faculty and staff with their technology needs. Previously, I worked on Fordham's IT Help Desk, maintained university web pages with HTML/CSS and Google Sites, and created graphics for university digital and print use.
+
+At **Your Agent Code**, I build software for small businesses and creators. My background also includes real estate analytics.
+
+### At Fordham
+
+- **B.S. in Computer Science**, expected May 2027 · Dean's List (2024–2025)
+- **EndPoint Services Assistant**, University IT · September 2026–present
+- **IT Help Desk**, University IT · September 2024–September 2025
+- **Marketing Manager**, Quant Trading Club · September 2024–present
+- **Computer Science Club** participant since its founding in September 2025
 
 ## 02 / What I build
 
