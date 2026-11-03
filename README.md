@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" width="100%" alt="Nicholas Black — AI agents, automation, and data tools" />
+  <img src="banner.svg" width="100%" alt="Nicholas Black — terminal interface with an ASCII ouroboros" />
 </p>
 
 <p align="center">
@@ -8,44 +8,17 @@
   <a href="https://github.com/youragentcode">Your Agent Code</a>
 </p>
 
-## 01 / Who I am
+### About
 
-I'm Nick, a computer science student at **Fordham University** in New York, graduating in **May 2027**. I build AI agents, automation, and data tools that turn messy inputs into something useful.
+I'm Nick — **Fordham University CS ’27** and **EndPoint Services Assistant at Fordham IT**. I build AI agents, automation, and data tools at **Your Agent Code**.
 
-I also work at **Fordham University Information Technology** as an **EndPoint Services Assistant**, supporting faculty and staff with their technology needs. Previously, I worked on Fordham's IT Help Desk, maintained university web pages with HTML/CSS and Google Sites, and created graphics for university digital and print use.
+At Fordham: Dean’s List · Quant Trading Club Marketing Manager · Computer Science Club.
 
-At **Your Agent Code**, I build software for small businesses and creators. My background also includes real estate analytics.
+### Selected builds
 
-### At Fordham
+- **[Spine](https://github.com/codepioneerr/spine)** — self-hosted Python automation with scheduled jobs, model routing, and privacy and spend controls.
+- **[Real Estate Market Dashboard](https://github.com/codepioneerr/real-estate-market-dashboard)** — rent analytics and forecasting with Python, SQL, and Streamlit.
 
-- **B.S. in Computer Science**, expected May 2027 · Dean's List (2024–2025)
-- **EndPoint Services Assistant**, University IT · September 2026–present
-- **IT Help Desk**, University IT · September 2024–September 2025
-- **Marketing Manager**, Quant Trading Club · September 2024–present
-- **Computer Science Club** participant since its founding in September 2025
+**Stack:** Python · JavaScript · SQL · React · FastAPI · pandas · Docker · GitHub Actions
 
-## 02 / What I build
-
-| Project | What it does | Built with |
-| :--- | :--- | :--- |
-| **[Spine](https://github.com/codepioneerr/spine)** | A self-hosted automation framework with scheduled jobs, resource controls, a SQLite item store, and model routing with privacy and spend controls. | Python · SQLite · Docker |
-| **[Real Estate Market Dashboard](https://github.com/codepioneerr/real-estate-market-dashboard)** | A pipeline and interactive dashboard for comparing multifamily rent trends across NYC, DC, and suburban Maryland using Zillow, HUD, and Census data. | pandas · SQL · Prophet · Streamlit · Plotly |
-
-## 03 / My toolkit
-
-**Languages** &nbsp; Python · JavaScript · C++ · SQL · HTML/CSS  
-**Applications** &nbsp; React · Vite · Tailwind CSS · FastAPI · Node.js  
-**Data** &nbsp; pandas · NumPy · SQLite · Streamlit · Plotly · Power BI  
-**Workflow** &nbsp; Git · GitHub Actions · pytest · Claude API · Claude Code · Codex
-
-## 04 / How I work
-
-Start with a clear spec. Build in focused branches. Test the behavior. Review before merging. I like understanding the whole system, from the data pipeline to the interface and the server running it.
-
-## 05 / Beyond the terminal
-
-Street photography, car building and tuning, and combat sports. I also help run marketing for Fordham's Quant Trading Club.
-
-<p align="center">
-  <img src="footer.svg" width="100%" alt="Keep building. Keep learning." />
-</p>
+**Offline:** street photography, car building and tuning, combat sports.
