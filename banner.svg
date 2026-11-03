@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Nicholas Black</title><desc id="desc">AI agents, automation and data tools. Charcoal and green pixel artwork.</desc>
+<defs><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#27302a" stroke-width="1"/></pattern></defs>
+<rect width="1200" height="360" fill="#171c19"/><rect x="720" width="480" height="360" fill="url(#grid)"/>
+<g fill="#2f573b"><path d="M744 48h48v24h-48zM816 24h24v48h-24zM888 72h72v24h-72zM1056 24h48v24h-48zM1128 96h48v24h-48zM768 240h48v48h-48zM864 288h48v24h-48zM1008 264h72v24h-72zM1128 312h48v24h-48z"/></g>
+<g fill="#8acb7d"><path d="M744 96h24v24h-24zM840 120h48v24h-48zM984 48h24v24h-24zM1104 192h48v24h-48zM936 312h24v24h-24zM816 216h24v24h-24z"/></g>
+<g fill="#d9e4c7"><path d="M912 144h24v24h-24zM936 120h24v24h-24zM912 168h24v24h-24zM936 192h24v24h-24zM1032 120h24v24h-24zM1056 144h24v24h-24zM1056 168h24v24h-24zM1032 192h24v24h-24zM984 192h24v24h-24z"/></g>
+<g fill="#f0aa64"><path d="M792 72h12v12h-12zM1080 240h12v12h-12zM960 264h12v12h-12z"/></g>
+<rect x="40" y="42" width="9" height="9" fill="#a7e68b"/>
+<text x="64" y="53" fill="#a7e68b" font-family="Consolas,monospace" font-size="16" letter-spacing="3">CODEPIONEERR / BUILDER</text>
+<text x="40" y="139" fill="#eff2e7" font-family="Arial,sans-serif" font-size="66" font-weight="700" letter-spacing="-2">NICHOLAS</text>
+<text x="40" y="210" fill="#eff2e7" font-family="Arial,sans-serif" font-size="66" font-weight="700" letter-spacing="-2">BLACK<tspan fill="#a7e68b">_</tspan></text>
+<text x="43" y="263" fill="#b9c4b7" font-family="Consolas,monospace" font-size="19">AI AGENTS / AUTOMATION / DATA TOOLS</text>
+<text x="43" y="318" fill="#879584" font-family="Consolas,monospace" font-size="14" letter-spacing="2">NEW YORK CITY   +   FORDHAM CS '27</text>
+<rect y="352" width="1200" height="8" fill="#2f573b"/><rect y="352" width="240" height="8" fill="#a7e68b"/>
+</svg>
