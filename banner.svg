@@ -1,304 +1,47 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430"><title>Nicholas Black terminal and ouroboros</title><rect width="1200" height="430" rx="12" fill="#0c0d0f"/><rect x="1" y="1" width="1198" height="428" rx="12" fill="none" stroke="#343438"/><path d="M1 44h1198" stroke="#343438"/><g fill="#747477"><circle cx="24" cy="23" r="4"/><circle cx="41" cy="23" r="4"/><circle cx="58" cy="23" r="4"/></g><g font-family="Consolas,monospace"><text x="88" y="28" font-size="14" fill="#a4a2a0">nick@codepioneerr: ~ / profile</text><text x="42" y="91" font-size="17" fill="#c9a77d">$ whoami</text><text x="42" y="145" font-size="40" font-weight="bold" fill="#ece8df">NICHOLAS BLACK</text><text x="42" y="186" font-size="16" fill="#a4a2a0">AI agents / automation / data tools</text><text x="42" y="242" font-size="17" fill="#c9a77d">$ cat affiliations.txt</text><text x="42" y="280" font-size="17" fill="#ece8df">Fordham University / CS 2027</text><text x="42" y="312" font-size="17" fill="#ece8df">Fordham IT / EndPoint Services</text><text x="42" y="344" font-size="17" fill="#a4a2a0">Your Agent Code / AI engineering</text><text x="42" y="395" font-size="17" fill="#c9a77d">$ <tspan fill="#ece8df">_</tspan></text><text x="804" y="86" font-size="13" fill="#747477">./ouroboros --loop</text>
-<text x='847' y='140' font-size='12' fill='#b8b5af'>#</text>
-<text x='856' y='140' font-size='12' fill='#b8b5af'>+</text>
-<text x='865' y='140' font-size='12' fill='#b8b5af'>:</text>
-<text x='874' y='140' font-size='12' fill='#b8b5af'>#</text>
-<text x='883' y='140' font-size='12' fill='#b8b5af'>+</text>
-<text x='892' y='140' font-size='12' fill='#b8b5af'>:</text>
-<text x='901' y='140' font-size='12' fill='#b8b5af'>#</text>
-<text x='910' y='140' font-size='12' fill='#ece8df'>+</text>
-<text x='919' y='140' font-size='12' fill='#ece8df'>:</text>
-<text x='928' y='140' font-size='12' fill='#ece8df'>#</text>
-<text x='937' y='140' font-size='12' fill='#ece8df'>+</text>
-<text x='946' y='140' font-size='12' fill='#ece8df'>:</text>
-<text x='955' y='140' font-size='12' fill='#ece8df'>#</text>
-<text x='964' y='140' font-size='12' fill='#ece8df'>+</text>
-<text x='973' y='140' font-size='12' fill='#ece8df'>:</text>
-<text x='820' y='150' font-size='12' fill='#b8b5af'>+</text>
-<text x='829' y='150' font-size='12' fill='#b8b5af'>:</text>
-<text x='838' y='150' font-size='12' fill='#b8b5af'>#</text>
-<text x='847' y='150' font-size='12' fill='#b8b5af'>+</text>
-<text x='856' y='150' font-size='12' fill='#b8b5af'>:</text>
-<text x='865' y='150' font-size='12' fill='#b8b5af'>#</text>
-<text x='874' y='150' font-size='12' fill='#b8b5af'>+</text>
-<text x='883' y='150' font-size='12' fill='#b8b5af'>:</text>
-<text x='892' y='150' font-size='12' fill='#b8b5af'>#</text>
-<text x='901' y='150' font-size='12' fill='#b8b5af'>+</text>
-<text x='910' y='150' font-size='12' fill='#ece8df'>:</text>
-<text x='919' y='150' font-size='12' fill='#ece8df'>#</text>
-<text x='928' y='150' font-size='12' fill='#ece8df'>+</text>
-<text x='937' y='150' font-size='12' fill='#ece8df'>:</text>
-<text x='946' y='150' font-size='12' fill='#ece8df'>#</text>
-<text x='955' y='150' font-size='12' fill='#ece8df'>+</text>
-<text x='964' y='150' font-size='12' fill='#ece8df'>:</text>
-<text x='973' y='150' font-size='12' fill='#ece8df'>#</text>
-<text x='982' y='150' font-size='12' fill='#ece8df'>+</text>
-<text x='991' y='150' font-size='12' fill='#ece8df'>:</text>
-<text x='1000' y='150' font-size='12' fill='#ece8df'>#</text>
-<text x='802' y='160' font-size='12' fill='#b8b5af'>#</text>
-<text x='811' y='160' font-size='12' fill='#b8b5af'>+</text>
-<text x='820' y='160' font-size='12' fill='#b8b5af'>:</text>
-<text x='829' y='160' font-size='12' fill='#b8b5af'>#</text>
-<text x='838' y='160' font-size='12' fill='#b8b5af'>+</text>
-<text x='847' y='160' font-size='12' fill='#b8b5af'>:</text>
-<text x='856' y='160' font-size='12' fill='#b8b5af'>#</text>
-<text x='865' y='160' font-size='12' fill='#b8b5af'>+</text>
-<text x='874' y='160' font-size='12' fill='#b8b5af'>:</text>
-<text x='883' y='160' font-size='12' fill='#b8b5af'>#</text>
-<text x='892' y='160' font-size='12' fill='#b8b5af'>+</text>
-<text x='901' y='160' font-size='12' fill='#b8b5af'>:</text>
-<text x='910' y='160' font-size='12' fill='#ece8df'>#</text>
-<text x='919' y='160' font-size='12' fill='#ece8df'>+</text>
-<text x='928' y='160' font-size='12' fill='#ece8df'>:</text>
-<text x='937' y='160' font-size='12' fill='#ece8df'>#</text>
-<text x='946' y='160' font-size='12' fill='#ece8df'>+</text>
-<text x='955' y='160' font-size='12' fill='#ece8df'>:</text>
-<text x='964' y='160' font-size='12' fill='#ece8df'>#</text>
-<text x='973' y='160' font-size='12' fill='#ece8df'>+</text>
-<text x='982' y='160' font-size='12' fill='#ece8df'>:</text>
-<text x='991' y='160' font-size='12' fill='#ece8df'>#</text>
-<text x='1000' y='160' font-size='12' fill='#ece8df'>+</text>
-<text x='1009' y='160' font-size='12' fill='#ece8df'>:</text>
-<text x='1018' y='160' font-size='12' fill='#ece8df'>#</text>
-<text x='784' y='170' font-size='12' fill='#b8b5af'>:</text>
-<text x='793' y='170' font-size='12' fill='#b8b5af'>#</text>
-<text x='802' y='170' font-size='12' fill='#b8b5af'>+</text>
-<text x='811' y='170' font-size='12' fill='#b8b5af'>:</text>
-<text x='820' y='170' font-size='12' fill='#b8b5af'>#</text>
-<text x='829' y='170' font-size='12' fill='#b8b5af'>+</text>
-<text x='838' y='170' font-size='12' fill='#b8b5af'>:</text>
-<text x='847' y='170' font-size='12' fill='#b8b5af'>#</text>
-<text x='856' y='170' font-size='12' fill='#b8b5af'>+</text>
-<text x='964' y='170' font-size='12' fill='#ece8df'>+</text>
-<text x='973' y='170' font-size='12' fill='#ece8df'>:</text>
-<text x='982' y='170' font-size='12' fill='#ece8df'>#</text>
-<text x='991' y='170' font-size='12' fill='#ece8df'>+</text>
-<text x='1000' y='170' font-size='12' fill='#ece8df'>:</text>
-<text x='1009' y='170' font-size='12' fill='#ece8df'>#</text>
-<text x='1018' y='170' font-size='12' fill='#ece8df'>+</text>
-<text x='1027' y='170' font-size='12' fill='#ece8df'>:</text>
-<text x='1036' y='170' font-size='12' fill='#ece8df'>#</text>
-<text x='775' y='180' font-size='12' fill='#b8b5af'>:</text>
-<text x='784' y='180' font-size='12' fill='#b8b5af'>#</text>
-<text x='793' y='180' font-size='12' fill='#b8b5af'>+</text>
-<text x='802' y='180' font-size='12' fill='#b8b5af'>:</text>
-<text x='811' y='180' font-size='12' fill='#b8b5af'>#</text>
-<text x='820' y='180' font-size='12' fill='#b8b5af'>+</text>
-<text x='829' y='180' font-size='12' fill='#b8b5af'>:</text>
-<text x='991' y='180' font-size='12' fill='#ece8df'>:</text>
-<text x='1000' y='180' font-size='12' fill='#ece8df'>#</text>
-<text x='1009' y='180' font-size='12' fill='#ece8df'>+</text>
-<text x='1018' y='180' font-size='12' fill='#ece8df'>:</text>
-<text x='1027' y='180' font-size='12' fill='#ece8df'>#</text>
-<text x='1036' y='180' font-size='12' fill='#ece8df'>+</text>
-<text x='1045' y='180' font-size='12' fill='#ece8df'>:</text>
-<text x='766' y='190' font-size='12' fill='#b8b5af'>:</text>
-<text x='775' y='190' font-size='12' fill='#b8b5af'>#</text>
-<text x='784' y='190' font-size='12' fill='#b8b5af'>+</text>
-<text x='793' y='190' font-size='12' fill='#b8b5af'>:</text>
-<text x='802' y='190' font-size='12' fill='#b8b5af'>#</text>
-<text x='811' y='190' font-size='12' fill='#b8b5af'>+</text>
-<text x='820' y='190' font-size='12' fill='#b8b5af'>:</text>
-<text x='1000' y='190' font-size='12' fill='#ece8df'>+</text>
-<text x='1009' y='190' font-size='12' fill='#ece8df'>:</text>
-<text x='1018' y='190' font-size='12' fill='#ece8df'>#</text>
-<text x='1027' y='190' font-size='12' fill='#ece8df'>+</text>
-<text x='1036' y='190' font-size='12' fill='#ece8df'>:</text>
-<text x='1045' y='190' font-size='12' fill='#ece8df'>#</text>
-<text x='1054' y='190' font-size='12' fill='#ece8df'>+</text>
-<text x='766' y='200' font-size='12' fill='#b8b5af'>#</text>
-<text x='775' y='200' font-size='12' fill='#b8b5af'>+</text>
-<text x='784' y='200' font-size='12' fill='#b8b5af'>:</text>
-<text x='793' y='200' font-size='12' fill='#b8b5af'>#</text>
-<text x='802' y='200' font-size='12' fill='#b8b5af'>+</text>
-<text x='811' y='200' font-size='12' fill='#b8b5af'>:</text>
-<text x='1009' y='200' font-size='12' fill='#ece8df'>#</text>
-<text x='1018' y='200' font-size='12' fill='#ece8df'>+</text>
-<text x='1027' y='200' font-size='12' fill='#ece8df'>:</text>
-<text x='1036' y='200' font-size='12' fill='#ece8df'>#</text>
-<text x='1045' y='200' font-size='12' fill='#ece8df'>+</text>
-<text x='1054' y='200' font-size='12' fill='#ece8df'>:</text>
-<text x='757' y='210' font-size='12' fill='#b8b5af'>#</text>
-<text x='766' y='210' font-size='12' fill='#b8b5af'>+</text>
-<text x='775' y='210' font-size='12' fill='#b8b5af'>:</text>
-<text x='784' y='210' font-size='12' fill='#b8b5af'>#</text>
-<text x='793' y='210' font-size='12' fill='#b8b5af'>+</text>
-<text x='802' y='210' font-size='12' fill='#b8b5af'>:</text>
-<text x='1018' y='210' font-size='12' fill='#ece8df'>:</text>
-<text x='1027' y='210' font-size='12' fill='#ece8df'>#</text>
-<text x='1036' y='210' font-size='12' fill='#ece8df'>+</text>
-<text x='1045' y='210' font-size='12' fill='#ece8df'>:</text>
-<text x='1054' y='210' font-size='12' fill='#ece8df'>#</text>
-<text x='1063' y='210' font-size='12' fill='#ece8df'>+</text>
-<text x='757' y='220' font-size='12' fill='#b8b5af'>+</text>
-<text x='766' y='220' font-size='12' fill='#b8b5af'>:</text>
-<text x='775' y='220' font-size='12' fill='#b8b5af'>#</text>
-<text x='784' y='220' font-size='12' fill='#b8b5af'>+</text>
-<text x='793' y='220' font-size='12' fill='#b8b5af'>:</text>
-<text x='1027' y='220' font-size='12' fill='#ece8df'>+</text>
-<text x='1036' y='220' font-size='12' fill='#ece8df'>:</text>
-<text x='1045' y='220' font-size='12' fill='#ece8df'>#</text>
-<text x='1054' y='220' font-size='12' fill='#ece8df'>+</text>
-<text x='1063' y='220' font-size='12' fill='#ece8df'>:</text>
-<text x='757' y='230' font-size='12' fill='#b8b5af'>:</text>
-<text x='766' y='230' font-size='12' fill='#b8b5af'>#</text>
-<text x='775' y='230' font-size='12' fill='#b8b5af'>+</text>
-<text x='784' y='230' font-size='12' fill='#b8b5af'>:</text>
-<text x='793' y='230' font-size='12' fill='#b8b5af'>#</text>
-<text x='1027' y='230' font-size='12' fill='#ece8df'>:</text>
-<text x='1036' y='230' font-size='12' fill='#ece8df'>#</text>
-<text x='1045' y='230' font-size='12' fill='#ece8df'>+</text>
-<text x='1054' y='230' font-size='12' fill='#ece8df'>:</text>
-<text x='1063' y='230' font-size='12' fill='#ece8df'>#</text>
-<text x='757' y='240' font-size='12' fill='#b8b5af'>#</text>
-<text x='766' y='240' font-size='12' fill='#b8b5af'>+</text>
-<text x='775' y='240' font-size='12' fill='#b8b5af'>:</text>
-<text x='784' y='240' font-size='12' fill='#b8b5af'>#</text>
-<text x='793' y='240' font-size='12' fill='#b8b5af'>+</text>
-<text x='1027' y='240' font-size='12' fill='#ece8df'>#</text>
-<text x='1036' y='240' font-size='12' fill='#ece8df'>+</text>
-<text x='1045' y='240' font-size='12' fill='#ece8df'>:</text>
-<text x='1054' y='240' font-size='12' fill='#ece8df'>#</text>
-<text x='1063' y='240' font-size='12' fill='#ece8df'>+</text>
-<text x='757' y='250' font-size='12' fill='#b8b5af'>+</text>
-<text x='766' y='250' font-size='12' fill='#b8b5af'>:</text>
-<text x='775' y='250' font-size='12' fill='#b8b5af'>#</text>
-<text x='784' y='250' font-size='12' fill='#b8b5af'>+</text>
-<text x='793' y='250' font-size='12' fill='#b8b5af'>:</text>
-<text x='1027' y='250' font-size='12' fill='#ece8df'>+</text>
-<text x='1036' y='250' font-size='12' fill='#ece8df'>:</text>
-<text x='1045' y='250' font-size='12' fill='#ece8df'>#</text>
-<text x='1054' y='250' font-size='12' fill='#ece8df'>+</text>
-<text x='1063' y='250' font-size='12' fill='#ece8df'>:</text>
-<text x='757' y='260' font-size='12' fill='#b8b5af'>:</text>
-<text x='766' y='260' font-size='12' fill='#b8b5af'>#</text>
-<text x='775' y='260' font-size='12' fill='#b8b5af'>+</text>
-<text x='784' y='260' font-size='12' fill='#b8b5af'>:</text>
-<text x='793' y='260' font-size='12' fill='#b8b5af'>#</text>
-<text x='802' y='260' font-size='12' fill='#b8b5af'>+</text>
-<text x='1018' y='260' font-size='12' fill='#ece8df'>+</text>
-<text x='1027' y='260' font-size='12' fill='#ece8df'>:</text>
-<text x='1036' y='260' font-size='12' fill='#ece8df'>#</text>
-<text x='1045' y='260' font-size='12' fill='#ece8df'>+</text>
-<text x='1054' y='260' font-size='12' fill='#ece8df'>:</text>
-<text x='1063' y='260' font-size='12' fill='#ece8df'>#</text>
-<text x='766' y='270' font-size='12' fill='#b8b5af'>+</text>
-<text x='775' y='270' font-size='12' fill='#b8b5af'>:</text>
-<text x='784' y='270' font-size='12' fill='#b8b5af'>#</text>
-<text x='793' y='270' font-size='12' fill='#b8b5af'>+</text>
-<text x='802' y='270' font-size='12' fill='#b8b5af'>:</text>
-<text x='811' y='270' font-size='12' fill='#b8b5af'>#</text>
-<text x='1009' y='270' font-size='12' fill='#ece8df'>+</text>
-<text x='1018' y='270' font-size='12' fill='#ece8df'>:</text>
-<text x='1027' y='270' font-size='12' fill='#ece8df'>#</text>
-<text x='1036' y='270' font-size='12' fill='#ece8df'>+</text>
-<text x='1045' y='270' font-size='12' fill='#ece8df'>:</text>
-<text x='1054' y='270' font-size='12' fill='#ece8df'>#</text>
-<text x='766' y='280' font-size='12' fill='#b8b5af'>:</text>
-<text x='775' y='280' font-size='12' fill='#b8b5af'>#</text>
-<text x='784' y='280' font-size='12' fill='#b8b5af'>+</text>
-<text x='793' y='280' font-size='12' fill='#b8b5af'>:</text>
-<text x='802' y='280' font-size='12' fill='#b8b5af'>#</text>
-<text x='811' y='280' font-size='12' fill='#b8b5af'>+</text>
-<text x='820' y='280' font-size='12' fill='#b8b5af'>:</text>
-<text x='1000' y='280' font-size='12' fill='#ece8df'>+</text>
-<text x='1009' y='280' font-size='12' fill='#ece8df'>:</text>
-<text x='1018' y='280' font-size='12' fill='#ece8df'>#</text>
-<text x='1027' y='280' font-size='12' fill='#ece8df'>+</text>
-<text x='1036' y='280' font-size='12' fill='#ece8df'>:</text>
-<text x='1045' y='280' font-size='12' fill='#ece8df'>#</text>
-<text x='1054' y='280' font-size='12' fill='#ece8df'>+</text>
-<text x='775' y='290' font-size='12' fill='#b8b5af'>+</text>
-<text x='784' y='290' font-size='12' fill='#b8b5af'>:</text>
-<text x='793' y='290' font-size='12' fill='#b8b5af'>#</text>
-<text x='802' y='290' font-size='12' fill='#b8b5af'>+</text>
-<text x='811' y='290' font-size='12' fill='#b8b5af'>:</text>
-<text x='820' y='290' font-size='12' fill='#b8b5af'>#</text>
-<text x='829' y='290' font-size='12' fill='#b8b5af'>+</text>
-<text x='991' y='290' font-size='12' fill='#ece8df'>+</text>
-<text x='1000' y='290' font-size='12' fill='#ece8df'>:</text>
-<text x='1009' y='290' font-size='12' fill='#ece8df'>#</text>
-<text x='1018' y='290' font-size='12' fill='#ece8df'>+</text>
-<text x='1027' y='290' font-size='12' fill='#ece8df'>:</text>
-<text x='1036' y='290' font-size='12' fill='#ece8df'>#</text>
-<text x='1045' y='290' font-size='12' fill='#ece8df'>+</text>
-<text x='784' y='300' font-size='12' fill='#b8b5af'>#</text>
-<text x='793' y='300' font-size='12' fill='#b8b5af'>+</text>
-<text x='802' y='300' font-size='12' fill='#b8b5af'>:</text>
-<text x='811' y='300' font-size='12' fill='#b8b5af'>#</text>
-<text x='820' y='300' font-size='12' fill='#b8b5af'>+</text>
-<text x='829' y='300' font-size='12' fill='#b8b5af'>:</text>
-<text x='838' y='300' font-size='12' fill='#b8b5af'>#</text>
-<text x='847' y='300' font-size='12' fill='#b8b5af'>+</text>
-<text x='856' y='300' font-size='12' fill='#b8b5af'>:</text>
-<text x='964' y='300' font-size='12' fill='#ece8df'>:</text>
-<text x='973' y='300' font-size='12' fill='#ece8df'>#</text>
-<text x='982' y='300' font-size='12' fill='#ece8df'>+</text>
-<text x='991' y='300' font-size='12' fill='#ece8df'>:</text>
-<text x='1000' y='300' font-size='12' fill='#ece8df'>#</text>
-<text x='1009' y='300' font-size='12' fill='#ece8df'>+</text>
-<text x='1018' y='300' font-size='12' fill='#ece8df'>:</text>
-<text x='1027' y='300' font-size='12' fill='#ece8df'>#</text>
-<text x='1036' y='300' font-size='12' fill='#ece8df'>+</text>
-<text x='802' y='310' font-size='12' fill='#b8b5af'>#</text>
-<text x='811' y='310' font-size='12' fill='#b8b5af'>+</text>
-<text x='820' y='310' font-size='12' fill='#b8b5af'>:</text>
-<text x='829' y='310' font-size='12' fill='#b8b5af'>#</text>
-<text x='838' y='310' font-size='12' fill='#b8b5af'>+</text>
-<text x='847' y='310' font-size='12' fill='#b8b5af'>:</text>
-<text x='856' y='310' font-size='12' fill='#b8b5af'>#</text>
-<text x='865' y='310' font-size='12' fill='#b8b5af'>+</text>
-<text x='874' y='310' font-size='12' fill='#b8b5af'>:</text>
-<text x='883' y='310' font-size='12' fill='#b8b5af'>#</text>
-<text x='892' y='310' font-size='12' fill='#b8b5af'>+</text>
-<text x='901' y='310' font-size='12' fill='#b8b5af'>:</text>
-<text x='910' y='310' font-size='12' fill='#ece8df'>#</text>
-<text x='919' y='310' font-size='12' fill='#ece8df'>+</text>
-<text x='928' y='310' font-size='12' fill='#ece8df'>:</text>
-<text x='937' y='310' font-size='12' fill='#ece8df'>#</text>
-<text x='946' y='310' font-size='12' fill='#ece8df'>+</text>
-<text x='955' y='310' font-size='12' fill='#ece8df'>:</text>
-<text x='964' y='310' font-size='12' fill='#ece8df'>#</text>
-<text x='973' y='310' font-size='12' fill='#ece8df'>+</text>
-<text x='982' y='310' font-size='12' fill='#ece8df'>:</text>
-<text x='991' y='310' font-size='12' fill='#ece8df'>#</text>
-<text x='1000' y='310' font-size='12' fill='#ece8df'>+</text>
-<text x='1009' y='310' font-size='12' fill='#ece8df'>:</text>
-<text x='1018' y='310' font-size='12' fill='#ece8df'>#</text>
-<text x='820' y='320' font-size='12' fill='#b8b5af'>#</text>
-<text x='829' y='320' font-size='12' fill='#b8b5af'>+</text>
-<text x='838' y='320' font-size='12' fill='#b8b5af'>:</text>
-<text x='847' y='320' font-size='12' fill='#b8b5af'>#</text>
-<text x='856' y='320' font-size='12' fill='#b8b5af'>+</text>
-<text x='865' y='320' font-size='12' fill='#b8b5af'>:</text>
-<text x='874' y='320' font-size='12' fill='#b8b5af'>#</text>
-<text x='883' y='320' font-size='12' fill='#b8b5af'>+</text>
-<text x='892' y='320' font-size='12' fill='#b8b5af'>:</text>
-<text x='901' y='320' font-size='12' fill='#b8b5af'>#</text>
-<text x='910' y='320' font-size='12' fill='#ece8df'>+</text>
-<text x='919' y='320' font-size='12' fill='#ece8df'>:</text>
-<text x='928' y='320' font-size='12' fill='#ece8df'>#</text>
-<text x='937' y='320' font-size='12' fill='#ece8df'>+</text>
-<text x='946' y='320' font-size='12' fill='#ece8df'>:</text>
-<text x='955' y='320' font-size='12' fill='#ece8df'>#</text>
-<text x='964' y='320' font-size='12' fill='#ece8df'>+</text>
-<text x='973' y='320' font-size='12' fill='#ece8df'>:</text>
-<text x='982' y='320' font-size='12' fill='#ece8df'>#</text>
-<text x='991' y='320' font-size='12' fill='#ece8df'>+</text>
-<text x='1000' y='320' font-size='12' fill='#ece8df'>:</text>
-<text x='847' y='330' font-size='12' fill='#b8b5af'>+</text>
-<text x='856' y='330' font-size='12' fill='#b8b5af'>:</text>
-<text x='865' y='330' font-size='12' fill='#b8b5af'>#</text>
-<text x='874' y='330' font-size='12' fill='#b8b5af'>+</text>
-<text x='883' y='330' font-size='12' fill='#b8b5af'>:</text>
-<text x='892' y='330' font-size='12' fill='#b8b5af'>#</text>
-<text x='901' y='330' font-size='12' fill='#b8b5af'>+</text>
-<text x='910' y='330' font-size='12' fill='#ece8df'>:</text>
-<text x='919' y='330' font-size='12' fill='#ece8df'>#</text>
-<text x='928' y='330' font-size='12' fill='#ece8df'>+</text>
-<text x='937' y='330' font-size='12' fill='#ece8df'>:</text>
-<text x='946' y='330' font-size='12' fill='#ece8df'>#</text>
-<text x='955' y='330' font-size='12' fill='#ece8df'>+</text>
-<text x='964' y='330' font-size='12' fill='#ece8df'>:</text>
-<text x='973' y='330' font-size='12' fill='#ece8df'>#</text>
-<path d="M1010 146l-17-35-35 9 11 16-7 17 28 6z" fill="#ece8df"/><rect x="983" y="123" width="5" height="5" fill="#0c0d0f"/><path d="M975 143l-11 4" stroke="#0c0d0f" stroke-width="3"/><text x="804" y="395" font-size="12" fill="#747477" letter-spacing="3">BUILD. LEARN. REPEAT.</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430"><title>Nicholas Black terminal and ouroboros</title><rect width="1200" height="430" rx="12" fill="#080808"/><rect x="1" y="1" width="1198" height="428" rx="12" fill="none" stroke="#303030"/><path d="M1 44h1198" stroke="#303030"/><g fill="#777777"><circle cx="24" cy="23" r="4"/><circle cx="41" cy="23" r="4"/><circle cx="58" cy="23" r="4"/></g><g font-family="Consolas,monospace"><text x="88" y="28" font-size="14" fill="#bdbdbd">nick@codepioneerr: ~ / profile</text><text x="42" y="91" font-size="17" fill="#ffffff">$ whoami</text><text x="42" y="145" font-size="40" font-weight="bold" fill="#ffffff">NICHOLAS BLACK</text><text x="42" y="186" font-size="16" fill="#bdbdbd">AI agents / automation / data tools</text><text x="42" y="242" font-size="17" fill="#ffffff">$ cat affiliations.txt</text><text x="42" y="280" font-size="17" fill="#ffffff">Fordham University / CS 2027</text><text x="42" y="312" font-size="17" fill="#ffffff">Fordham IT / EndPoint Services</text><text x="42" y="344" font-size="17" fill="#bdbdbd">Your Agent Code / AI engineering</text><text x="42" y="395" font-size="17" fill="#ffffff">$ <tspan fill="#ffffff">_</tspan></text>
+<text x="775" y="80" font-size="12" fill="#999999">$ python ouroboros.py --infinite</text>
+<text x='750' y='100' font-family='Consolas,monospace' font-size='8' letter-spacing='-0.6' fill='#ffffff' xml:space='preserve'>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣤⣶⡛⠻⣿⣶⣌⠙⢿⣷⣌⠻⣿⣦⡙⢿⣷⢜⣿⡵⣻⣿⣯⠞⢿⡵⣻⣻⣯⢞⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+<text x='750' y='106.88' font-family='Consolas,monospace' font-size='8' letter-spacing='-0.6' fill='#ffffff' xml:space='preserve'>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣶⣿⣉⠛⠿⣿⣶⣄⡙⠿⣷⣦⡙⢿⣷⣌⠻⣷⡄⣻⣻⣯⢞⣿⣽⡥⡀⣠⢞⣿⣿⡵⣻⣯⢮⢆⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+<text x='750' y='113.76' font-family='Consolas,monospace' font-size='8' letter-spacing='-0.6' fill='#ffffff' xml:space='preserve'>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣾⣯⣍⣉⠛⠿⣿⣶⣤⡙⠻⣿⣦⣈⠻⣿⣦⡙⢿⣦⡙⢟⣽⣽⡷⣫⣿⢾⠞⢽⡷⣫⣿⣿⢞⣽⡷⡳⣫⣿⣶⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+<text x='750' y='120.64' font-family='Consolas,monospace' font-size='8' letter-spacing='-0.6' fill='#ffffff' xml:space='preserve'>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣉⣉⠛⠻⠿⣿⣶⣤⣉⠛⢿⣷⣄⡙⢿⣷⣌⠻⣷⣌⣻⣷⣌⣋⣉⢈⣤⡤⡰⣢⣾⢞⣽⡷⡷⣫⣿⢞⣝⡽⢿⣷⢸⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+<text x='750' y='127.52' font-family='Consolas,monospace' font-size='8' letter-spacing='-0.6' fill='#ffffff' xml:space='preserve'>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⡟⠛⠛⠻⠿⢿⣷⣶⣤⣉⠛⠿⣷⣦⣈⠻⣿⣦⣽⡿⠷⠛⠛⠋⠉⠉⠱⡷⣫⣿⢞⣝⣽⡷⣫⣿⢞⢞⣽⡷⣫⣯⣧⢸⣿⠀⣿⡏⢿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+<text x='750' y='134.4' font-family='Consolas,monospace' font-size='8' letter-spacing='-0.6' fill='#ffffff' xml:space='preserve'>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠿⠿⠿⣿⣿⣷⣶⣦⣤⣉⡛⠻⢿⣶⣤⣹⣿⠿⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠑⠿⣫⣮⣾⢟⣵⡿⣫⣫⡾⠿⣥⣸⣿⠸⣿⡀⣿⡇⢸⣿⢹⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+<text x='750' y='141.28' font-family='Consolas,monospace' font-size='8' letter-spacing='-0.6' fill='#ffffff' xml:space='preserve'>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⣿⣶⣶⣶⣦⣤⣤⣍⣉⡛⠻⠿⣷⣦⡼⠟⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠉⠉⠈⠉⠁⠁⠀⠀⠀⠙⠻⣦⣿⡇⣿⡇⢸⣿⢸⣿⠻⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+<text x='750' y='148.16' font-family='Consolas,monospace' font-size='8' letter-spacing='-0.6' fill='#ffffff' xml:space='preserve'>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣟⣉⣉⣉⣉⣉⣉⣙⡛⠛⠿⠿⣿⣶⠞⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⢧⣿⡇⣸⡿⢸⣿⠀⣿⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+<text x='750' y='155.04' font-family='Consolas,monospace' font-size='8' letter-spacing='-0.6' fill='#ffffff' xml:space='preserve'>⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⠿⠿⠿⠿⠟⠛⠿⠿⠿⠿⢿⣷⣶⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢧⣿⡇⢸⣿⢰⣿⠃⣿⣄⠀⠀⠀⠀⠀⠀⠀</text>
+<text x='750' y='161.92' font-family='Consolas,monospace' font-size='8' letter-spacing='-0.6' fill='#ffffff' xml:space='preserve'>⠀⠀⠀⠀⠀⠀⠀⠀⣰⣯⣶⣶⣶⣾⣿⣿⣿⣿⣶⣶⣶⡞⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣇⣿⡇⣸⣿⢠⣿⠿⣆⠀⠀⠀⠀⠀⠀</text>
+<text x='750' y='168.8' font-family='Consolas,monospace' font-size='8' letter-spacing='-0.6' fill='#ffffff' xml:space='preserve'>⠀⠀⠀⠀⠀⠀⠀⣰⠟⢋⣉⣉⣤⣤⣤⣤⣤⣤⣤⡼⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢿⡁⣿⡇⣼⡿⢠⣿⣧⠀⠀⠀⠀⠀</text>
+<text x='750' y='175.68' font-family='Consolas,monospace' font-size='8' letter-spacing='-0.6' fill='#ffffff' xml:space='preserve'>⠀⠀⠀⠀⠀⠀⢰⣿⣿⡿⠿⠟⠛⢛⣉⣉⣉⣩⡟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⡿⢠⣿⠇⣾⡿⢸⣧⠀⠀⠀⠀</text>
+<text x='750' y='182.56' font-family='Consolas,monospace' font-size='8' letter-spacing='-0.6' fill='#ffffff' xml:space='preserve'>⠀⠀⠀⠀⠀⢀⣟⣉⣤⣴⣶⣿⡿⠿⠿⠛⣻⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢷⣾⡟⢰⣿⠃⣾⡿⣆⠀⠀⠀</text>
+<text x='750' y='189.44' font-family='Consolas,monospace' font-size='8' letter-spacing='-0.6' fill='#ffffff' xml:space='preserve'>⠀⠀⠀⠀⠀⣼⣿⠿⠛⣉⣡⣤⣶⣶⣿⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣿⢡⣿⠇⣼⡿⢁⣿⡄⠀⠀</text>
+<text x='750' y='196.32' font-family='Consolas,monospace' font-size='8' letter-spacing='-0.6' fill='#ffffff' xml:space='preserve'>⠀⠀⠀⠀⢠⣏⣤⣶⣿⠿⠛⢋⣉⣤⣴⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⠏⣸⣿⢃⣾⡟⢿⡀⠀</text>
+<text x='750' y='203.2' font-family='Consolas,monospace' font-size='8' letter-spacing='-0.6' fill='#ffffff' xml:space='preserve'>⠀⠀⠀⠀⣼⠿⠛⣉⣤⣶⣿⠿⠛⢫⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣴⡿⢃⣾⡟⢠⣿⣇⠀</text>
+<text x='750' y='210.08' font-family='Consolas,monospace' font-size='8' letter-spacing='-0.6' fill='#ffffff' xml:space='preserve'>⠀⠀⠀⢀⣿⣴⣿⠿⠛⣉⣤⣶⣿⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣿⢁⣾⡟⣠⣿⠏⣻⡀</text>
+<text x='750' y='216.96' font-family='Consolas,monospace' font-size='8' letter-spacing='-0.6' fill='#ffffff' xml:space='preserve'>⠀⠀⠀⢸⡿⠋⣡⣴⣿⠿⢋⣡⣴⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣿⠏⣰⣿⠋⣴⣿⡇</text>
+<text x='750' y='223.84' font-family='Consolas,monospace' font-size='8' letter-spacing='-0.6' fill='#ffffff' xml:space='preserve'>⠀⠀⠀⢸⣵⣿⠟⢋⣤⣶⡿⠟⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣇⣾⡿⢁⣾⡿⢁⣿</text>
+<text x='750' y='230.72' font-family='Consolas,monospace' font-size='8' letter-spacing='-0.6' fill='#ffffff' xml:space='preserve'>⠀⠀⠀⣾⠟⣡⣶⣿⠟⣉⣴⣾⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⠏⣰⣿⠟⣠⣿⢿</text>
+<text x='750' y='237.6' font-family='Consolas,monospace' font-size='8' letter-spacing='-0.6' fill='#ffffff' xml:space='preserve'>⠀⠀⠀⣿⣾⡿⠋⣠⣾⡿⢋⣼⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣧⣾⠟⢁⣾⡿⢋⣼</text>
+<text x='750' y='244.48' font-family='Consolas,monospace' font-size='8' letter-spacing='-0.6' fill='#ffffff' xml:space='preserve'>⠀⠀⠀⣿⢋⣴⣿⠟⢁⣴⡿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡟⢁⣴⡿⠋⣠⣾⡟</text>
+<text x='750' y='251.36' font-family='Consolas,monospace' font-size='8' letter-spacing='-0.6' fill='#ffffff' xml:space='preserve'>⠀⠀⠀⢿⣾⡟⢁⣴⡿⠋⣠⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣷⡿⠋⣠⣾⡿⢋⣴</text>
+<text x='750' y='258.24' font-family='Consolas,monospace' font-size='8' letter-spacing='-0.6' fill='#ffffff' xml:space='preserve'>⠀⠀⠀⢸⡏⣴⣿⠟⣠⣾⠟⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣏⣴⣿⠟⢉⣴⣿⠟</text>
+<text x='750' y='265.12' font-family='Consolas,monospace' font-size='8' letter-spacing='-0.6' fill='#ffffff' xml:space='preserve'>⠀⠀⠀⢸⣿⡿⢁⣾⡿⢃⣴⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⠿⢋⣡⣾⡿⠛⣡⣶</text>
+<text x='750' y='272' font-family='Consolas,monospace' font-size='8' letter-spacing='-0.6' fill='#ffffff' xml:space='preserve'>⠀⠀⠀⠀⣯⣰⣿⠟⣠⣿⠟⣸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣯⣶⡿⠟⣉⣴⣾⡿⢻</text>
+<text x='750' y='278.88' font-family='Consolas,monospace' font-size='8' letter-spacing='-0.6' fill='#ffffff' xml:space='preserve'>⠀⠀⠀⠀⢻⣿⠋⣼⡿⢃⣼⡿⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⢋⣡⣴⣾⡿⠛⣁⣴⣿</text>
+<text x='750' y='285.76' font-family='Consolas,monospace' font-size='8' letter-spacing='-0.6' fill='#ffffff' xml:space='preserve'>⠀⠀⠀⠀⠘⣇⣾⡿⢁⣾⡟⣠⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⠿⠟⢋⣡⣴⣿⠿⠛⣿</text>
+<text x='750' y='292.64' font-family='Consolas,monospace' font-size='8' letter-spacing='-0.6' fill='#ffffff' xml:space='preserve'>⠀⠀⠀⠀⠀⢻⡿⢡⣿⡟⣰⣿⢛⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⣤⣶⣿⠿⠛⢋⣡⣴⣿⡇</text>
+<text x='750' y='299.52' font-family='Consolas,monospace' font-size='8' letter-spacing='-0.6' fill='#ffffff' xml:space='preserve'>⠀⠀⠀⠀⠀⠈⣧⣿⡟⣰⣿⠃⣼⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⢛⣉⣡⣤⣶⣿⡿⠟⢋⣿⠀</text>
+<text x='750' y='306.4' font-family='Consolas,monospace' font-size='8' letter-spacing='-0.6' fill='#ffffff' xml:space='preserve'>⠀⠀⠀⠀⠀⠀⠸⣟⢠⣿⠇⣼⡿⢡⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠿⠿⠟⠛⣋⣉⣤⣶⣾⣿⡇⠀</text>
+<text x='750' y='313.28' font-family='Consolas,monospace' font-size='8' letter-spacing='-0.6' fill='#ffffff' xml:space='preserve'>⠀⠀⠀⠀⠀⠀⠀⢹⣿⡟⢰⣿⠃⣾⡏⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⣷⣶⣶⣿⡿⠿⠟⠛⣉⣡⡿⠀⠀</text>
+<text x='750' y='320.16' font-family='Consolas,monospace' font-size='8' letter-spacing='-0.6' fill='#ffffff' xml:space='preserve'>⠀⠀⠀⠀⠀⠀⠀⠀⢻⣅⣿⡏⣸⣿⢠⣿⢷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣾⣭⣭⣥⣤⣤⣶⣶⣾⣿⠿⣿⠁⠀⠀</text>
+<text x='750' y='327.04' font-family='Consolas,monospace' font-size='8' letter-spacing='-0.6' fill='#ffffff' xml:space='preserve'>⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣿⢀⣿⡇⣼⡿⢸⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⣟⣛⡛⠛⢛⣛⣉⣉⣉⣤⣤⣾⠃⠀⠀⠀</text>
+<text x='750' y='333.92' font-family='Consolas,monospace' font-size='8' letter-spacing='-0.6' fill='#ffffff' xml:space='preserve'>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣾⣿⢀⣿⡇⣾⡟⢹⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡞⠛⠿⠿⠿⠿⠿⠿⠿⠿⠟⠛⣿⠃⠀⠀⠀⠀</text>
+<text x='750' y='340.8' font-family='Consolas,monospace' font-size='8' letter-spacing='-0.6' fill='#ffffff' xml:space='preserve'>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣿⣸⣿⠀⣿⡇⣾⡏⢻⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡾⠻⠿⢿⣿⣶⣶⣶⣶⣶⣶⣶⣿⡿⠃⠀⠀⠀⠀⠀</text>
+<text x='750' y='347.68' font-family='Consolas,monospace' font-size='8' letter-spacing='-0.6' fill='#ffffff' xml:space='preserve'>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⣿⢰⣿⠃⣿⡇⢸⣿⢳⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⡞⠻⠿⣿⣶⣶⣤⣤⣤⣭⣍⣉⣩⣥⡾⠁⠀⠀⠀⠀⠀⠀</text>
+<text x='750' y='354.56' font-family='Consolas,monospace' font-size='8' letter-spacing='-0.6' fill='#ffffff' xml:space='preserve'>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣾⣿⠀⣿⡇⢸⣿⢸⣿⠻⣶⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣶⣋⠛⠿⣿⣶⣤⣬⣉⣉⡛⠛⠛⠛⠛⣿⠟⠀⠀⠀⠀⠀⠀⠀⠀</text>
+<text x='750' y='361.44' font-family='Consolas,monospace' font-size='8' letter-spacing='-0.6' fill='#ffffff' xml:space='preserve'>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣦⣿⡇⢸⣿⢸⣿⠀⣿⡏⣿⡷⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⡴⢾⣿⣍⡙⠻⣿⣶⣤⣍⣙⠛⠻⠿⠿⣿⣿⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+<text x='750' y='368.32' font-family='Consolas,monospace' font-size='8' letter-spacing='-0.6' fill='#ffffff' xml:space='preserve'>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣧⣸⣿⠈⣿⡇⢿⣇⢸⣿⠘⣿⡝⢿⣶⢶⣤⣤⣤⣄⣀⣀⣀⣤⣤⣤⣴⡶⠾⣿⣍⠻⢿⣦⣌⠛⢿⣷⣦⣍⡙⠻⠿⣿⣷⣶⣶⣤⡾⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+<text x='750' y='375.2' font-family='Consolas,monospace' font-size='8' letter-spacing='-0.6' fill='#ffffff' xml:space='preserve'>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⢿⣄⣿⣇⢸⣿⡈⣿⡇⢻⣷⠘⣿⡄⢿⣧⠹⣿⡍⢻⣿⡙⢿⣦⡙⢿⣦⡈⠻⣷⣤⡙⠿⣷⣦⣌⡙⠻⢿⣷⣶⣤⣤⣩⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+<text x='750' y='382.08' font-family='Consolas,monospace' font-size='8' letter-spacing='-0.6' fill='#ffffff' xml:space='preserve'>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠻⣿⣀⣿⣇⢹⣿⡈⣿⣇⢹⣿⡈⢿⣧⠹⣿⣆⠻⣿⣌⠻⣿⣄⠙⢿⣦⣈⠻⣿⣶⣌⡙⠻⢿⣷⣦⣄⣩⡿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+<text x='750' y='388.96' font-family='Consolas,monospace' font-size='8' letter-spacing='-0.6' fill='#ffffff' xml:space='preserve'>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠻⢿⣄⣿⣧⠸⣿⡆⢻⣷⡈⢿⣧⡘⣿⣦⡙⢿⣧⡈⢿⣷⣄⠙⢿⣷⣤⡙⠻⣿⣷⣤⣨⡽⠟⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+<text x='750' y='395.84' font-family='Consolas,monospace' font-size='8' letter-spacing='-0.6' fill='#ffffff' xml:space='preserve'>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠻⠶⣽⣿⣄⢻⣷⡌⢿⣷⡈⢻⣷⣌⠻⣿⣦⡙⢿⣷⣦⡉⣻⣿⣶⠶⠟⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text><text x='750' y='402.72' font-family='Consolas,monospace' font-size='8' letter-spacing='-0.6' fill='#ffffff' xml:space='preserve'>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠛⠛⠿⠶⠿⢿⣦⣽⣿⣧⣬⡿⠿⠶⠾⠛⠛⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text><text x='750' y='409.6' font-family='Consolas,monospace' font-size='8' letter-spacing='-0.6' fill='#ffffff' xml:space='preserve'>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text><text x='750' y='416.48' font-family='Consolas,monospace' font-size='8' letter-spacing='-0.6' fill='#ffffff' xml:space='preserve'>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text><text x="830" y="422" font-size="9" fill="#999999" letter-spacing="2">END → BEGIN → END</text></g></svg>
+
