@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codepioneerr/codepioneerr/82befec34fb216570fa1be82fb956fd976db0a2d/banner.svg" width="100%" alt="Nicholas Black — terminal interface with an ASCII ouroboros" />
+  <img src="https://raw.githubusercontent.com/codepioneerr/codepioneerr/0a8cfdd0360f8692ea809de2c83b8cb70df405ec/banner.svg" width="100%" alt="Nicholas Black — terminal interface with an ASCII ouroboros" />
 </p>
 
 <p align="center">
@@ -8,7 +8,7 @@
   <a href="https://github.com/youragentcode">Your Agent Code</a>
 </p>
 
-### About
+### Who am I
 
 I'm Nick — **Fordham University CS ’27** and **EndPoint Services Assistant at Fordham IT**. I build AI agents, automation, and data tools at **Your Agent Code**.
 
