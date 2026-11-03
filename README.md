@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codepioneerr/codepioneerr/095a3b43ea64859c30c92f6e7870395ef0c2e4d8/banner.svg" width="100%" alt="Nicholas Black — terminal interface with an ASCII ouroboros" />
+  <img src="https://raw.githubusercontent.com/codepioneerr/codepioneerr/97b3ff8928eee99a17fee141ad56700017ac241e/banner.svg" width="100%" alt="Nicholas Black — terminal interface with an ASCII ouroboros" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nicholas-black-0a44a4245/">LinkedIn</a> &nbsp; / &nbsp;
   <a href="https://github.com/codepioneerr?tab=repositories">Projects</a> &nbsp; / &nbsp;
-  <a href="https://github.com/youragentcode">Your Agent Code</a>
+  <a href="https://youragentcode.com/">Your Agent Code</a>
 </p>
 
 ### Who am I
